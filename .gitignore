@@ -1,0 +1,13 @@
+dist
+lib
+test
+.classpath
+.project
+built-jar.properties
+manifest.mf
+build
+genfiles.properties
+project.properties
+config.properties
+private.properties
+private.xml
